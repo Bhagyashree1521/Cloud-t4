@@ -22,3 +22,5 @@ https://github.com/Bhagyashree1521/Cloud-t4/blob/ccfef9526f1708be29dc65b139405dd
 https://github.com/Bhagyashree1521/Cloud-t4/blob/b8e9bdf9a5ea19037f163fad60766c401defcde4/key%20created.png
 
 https://github.com/Bhagyashree1521/Cloud-t4/blob/d491c34952fc2ccce31a8d52f7a31820444a8e0c/key%20applied.png
+
+https://github.com/Bhagyashree1521/Cloud-t4/blob/03ad9311666c89f894630589a3f7fbf116435968/configured%20manual%20key.png
